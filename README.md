@@ -1,7 +1,4 @@
 # superstore-sales-analysis
-Superstore Sales Analysis using Python, Pandas, NumPy, Matplotlib, and Seaborn
-# Superstore Sales Analysis
-
 ## Project Overview
 This project analyzes retail sales data to identify trends in sales, profit, and regional performance.
 
